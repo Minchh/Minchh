@@ -1,3 +1,7 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdelightful-animated-gifs-of-japanese-city-life--371406300531613644%2F&psig=AOvVaw0zm4N_PkzFEoDUtqxbYpkg&ust=1715664802678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDn68vziYYDFQAAAAAdAAAAABAE
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif">
+ <img alt="Rain Japan Gif" src="https://i.pinimg.com/originals/2c/7e/d2/2c7ed28e51ab74f70c25f9adf519e3b3.gif">
+</picture>
 
 ### Hi there 🚀
