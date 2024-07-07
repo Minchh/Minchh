@@ -10,8 +10,8 @@
 
 
 ## 🚀 About Me
-I'm a 4th year student pursuing Computer Sciene from International University, Vietnam. I'm a passionate learner, who always willing to learn new stuffs, technologies,.... Beside that, I'm really like to program video games, and website's UI.
+I'm a passionate learner, who always willing to learn new stuffs, technologies,.... Beside that, I'm really like to program video games, and softwares.
 
 
 ## 🛠 Skills
-C# .NET, JavaScript, HTML, CSS, ReactJS, and some basic Java,...
+Unity, .NET (C#), JavaScript, HTML, CSS, ReactJS, Java,...
